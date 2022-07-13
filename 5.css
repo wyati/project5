@@ -1,0 +1,13 @@
+html {
+    background-image: url(https://c.tenor.com/TofJrkqD9JMAAAAd/impressed-awsome.gif);
+    background-repeat: no-repeat;
+    background-size: 2000px 1050px;
+}
+
+h1{
+    position: absolute;
+    left: 25%;
+    top: 33%;
+    color: #ff0033;
+    font-size: 70px;
+}
